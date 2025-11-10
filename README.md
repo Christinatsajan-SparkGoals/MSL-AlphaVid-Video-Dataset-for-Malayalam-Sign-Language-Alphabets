@@ -27,9 +27,6 @@ This variation enhances the dataset’s ability to support model training and ev
 
 Each folder represents a specific Malayalam alphabet sign, containing 72 instances of that gesture performed by different signers.
 
-> **Figure 5.1:** Video dataset for Malayalam Alphabets  
-> **Figure 5.2:** Video dataset for MSL Alphabet  
-> **Figure 5.3:** Video dataset sample for MSL Alphabet “A”
 
 ---
 
